@@ -4,9 +4,11 @@ var quote = document.getElementById("quote");
 
 
 
-var qouteList = ["The only way to do great work is to love what you do. - Steve Jobs",
+var qouteList = ["“Be yourself; everyone else is already taken.― Oscar Wilde",
+
 
 "Innovation distinguishes between a leader and a follower. - Steve Jobs",
+"“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.” ― Albert Einstein",
 
 "Don't be afraid to give up the good to go for the great. - John D. Rockefeller",
 
