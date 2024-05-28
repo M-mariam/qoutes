@@ -1,0 +1,14 @@
+/* h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+} */
+
+img{
+    width: 30px;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+body{
+    cursor: none;
+}
